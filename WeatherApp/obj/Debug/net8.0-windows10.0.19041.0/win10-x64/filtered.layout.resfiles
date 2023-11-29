@@ -59,3 +59,14 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 AboutAssets.txt
+foggy.json
+mist.json
+partly-cloudy.json
+partly-shower.json
+snow.json
+snow-sunny.json
+storm.json
+stormshowersday.json
+sunny.json
+thunder.json
+windy.json

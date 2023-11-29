@@ -177,3 +177,13 @@ C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\obj\Debug\net8.0-window
 C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Light.ttf
 C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Rubik-Regular.ttf
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Extended.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Extended.UI.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.SceneGraph.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Skottie.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Controls.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Core.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Windows.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\WeatherApp.sourcelink.json
