@@ -1,0 +1,1 @@
+C:\FlosStuf\Projekte\Maui Projekte\WeatherApp\WeatherApp\WeatherApp.csproj;x64
