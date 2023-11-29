@@ -82,6 +82,10 @@
               "target": "Package",
               "version": "[8.0.0-preview.7.23375.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [
@@ -125,6 +129,10 @@
               "target": "Package",
               "version": "[8.0.0-preview.7.23375.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [
@@ -168,6 +176,10 @@
               "target": "Package",
               "version": "[8.0.0-preview.7.23375.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [
@@ -206,6 +218,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [
